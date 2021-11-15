@@ -369,5 +369,3 @@ Vous pouvez trouver le code du job, du map et du reducer respectivement dans les
 
 Hash du commit : 9192b86fec7af33ee13d0387f6e13c36c6a659ee
 
-### Exercices suivants : 
-Reprendre le fonctionnement du job, mapper et reducer du premier exercice avec les treesDistrictsContaining
